@@ -1,0 +1,12 @@
+{"level":"info","message":"Post-service is running on port 3002","service":"identity-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"identity-service"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service"}
+{"level":"info","message":"Connected to MongoDB","service":"identity-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
