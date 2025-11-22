@@ -3,11 +3,9 @@ const mongoose = require('mongoose');
 const postSchema = mongoose.Schema({
     title: {
         type: String,
-        required: [true, 'Title is required'],
         trim: true,
         minlength: [3, 'Title must be at least 3 characters'],
-        maxlength: [200, 'Title cannot exceed 200 characters'],
-        index: true
+        maxlength: [200, 'Title cannot exceed 200 characters']
     },
     content: {
         type: String,
@@ -90,6 +88,16 @@ postSchema.virtual('commentCount').get(function() {
 // Virtual for like count
 postSchema.virtual('likeCount').get(function() {
     return this.likes.length;
+});
+
+// Drop the problematic index if it exists
+postSchema.post('init', async function() {
+    try {
+        await this.collection.dropIndex('title_1');
+        console.log('Dropped title_1 index');
+    } catch (error) {
+        // Index doesn't exist, ignore
+    }
 });
 
 const Post = mongoose.model('Post', postSchema);

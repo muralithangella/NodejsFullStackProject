@@ -2,10 +2,11 @@ const Joi = require('joi');
 const logger = require('../utils/logger');
 
 const postValidation = Joi.object({
-    title: Joi.string().min(3).max(200).required().trim(),
+    title: Joi.string().min(3).max(200).optional().trim(),
     content: Joi.string().min(10).max(5000).required().trim(),
     media: Joi.string().uri().optional(),
     category: Joi.string().min(2).max(50).optional().trim(),
+    mediaIds: Joi.array().items(Joi.string()).optional()
 });
 
 const validatePost = (req, res, next) => {

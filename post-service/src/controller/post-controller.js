@@ -2,17 +2,40 @@ const logger=require('../utils/logger');
 const {Post}=require('../models/post');
 
 
+const invalidatePostCache = async (req, postId) => {
+    if (req.redisClient) {
+        try {
+            const keys = await req.redisClient.keys(`post:${postId}*`);
+            if (keys.length > 0) {
+                await req.redisClient.del(keys);
+            }
+            // Also invalidate general post lists
+            const listKeys = await req.redisClient.keys('posts:*');
+            if (listKeys.length > 0) {
+                await req.redisClient.del(listKeys);
+            }
+        } catch (error) {
+            logger.error(`Cache invalidation error: ${error.message}`);
+        }
+    }
+};
 const createPost=async (req,res)=>{
     try {
-
-        const {mediaIds,content}=req.body;
-        const post=await Post({
+        const {mediaIds,content,title}=req.body;
+        const postData = {
             mediaIds:mediaIds||[],
             content,
             user:req.user._id
-        });
-
+        };
+        
+        // Only add title if provided
+        if (title) {
+            postData.title = title;
+        }
+        
+        const post = new Post(postData);
         await post.save();
+        await invalidatePostCache(req, post._id);
         logger.info(`Post created successfully: ${post._id}`);
         res.status(201).json({ success: true, message: "Post created successfully", post });
         
@@ -20,18 +43,30 @@ const createPost=async (req,res)=>{
         logger.error(`Create post error: ${error.message}`);
         res.status(500).json({ success: false, message: "Internal server error" });  
     }
-    
 }
 
 const getAllPosts=async (req,res)=>{
     try {
         const page = parseInt(req.query.page) || 1;
         const limit = Math.min(parseInt(req.query.limit) || 10, 50);
-        const skip = (page - 1) * limit;
+        const cacheKey = `posts:page:${page}:limit:${limit}`;
         
+        // Check cache first
+        if (req.redisClient) {
+            try {
+                const cached = await req.redisClient.get(cacheKey);
+                if (cached) {
+                    logger.info(`Posts retrieved from cache: page ${page}, limit ${limit}`);
+                    return res.status(200).json(JSON.parse(cached));
+                }
+            } catch (cacheError) {
+                logger.error(`Cache read error: ${cacheError.message}`);
+            }
+        }
+        
+        const skip = (page - 1) * limit;
         const [posts, total] = await Promise.all([
             Post.find({})
-                .populate('user', 'username profilePicture')
                 .sort({ createdAt: -1 })
                 .skip(skip)
                 .limit(limit)
@@ -39,8 +74,7 @@ const getAllPosts=async (req,res)=>{
             Post.countDocuments({})
         ]);
         
-        logger.info(`Posts retrieved: page ${page}, limit ${limit}`);
-        res.status(200).json({ 
+        const response = { 
             success: true, 
             message: "Posts retrieved successfully", 
             posts,
@@ -50,7 +84,19 @@ const getAllPosts=async (req,res)=>{
                 total,
                 pages: Math.ceil(total / limit)
             }
-        });
+        };
+        
+        // Cache the result
+        if (req.redisClient) {
+            try {
+                await req.redisClient.setex(cacheKey, 300, JSON.stringify(response)); // 5 minutes
+            } catch (cacheError) {
+                logger.error(`Cache write error: ${cacheError.message}`);
+            }
+        }
+        
+        logger.info(`Posts retrieved from DB: page ${page}, limit ${limit}`);
+        res.status(200).json(response);
         
     } catch (error) {
         logger.error(`getAll posts error: ${error.message}`);
@@ -61,15 +107,41 @@ const getAllPosts=async (req,res)=>{
 const getPost=async (req,res)=>{
     try {
         const {id}=req.params;
+        const cacheKey = `post:${id}`;
+        
+        // Check cache first
+        if (req.redisClient) {
+            try {
+                const cached = await req.redisClient.get(cacheKey);
+                if (cached) {
+                    logger.info(`Post retrieved from cache: ${id}`);
+                    return res.status(200).json(JSON.parse(cached));
+                }
+            } catch (cacheError) {
+                logger.error(`Cache read error: ${cacheError.message}`);
+            }
+        }
+        
         const post=await Post.findById(id)
-            .populate('user', 'username profilePicture')
             .lean();
         if(!post){
             logger.warn(`Post not found: ${id}`);
             return res.status(404).json({ success: false, message: "Post not found" });
         }
-        logger.info(`Post retrieved successfully: ${id}`);
-        res.status(200).json({ success: true, message: "Post retrieved successfully", post });
+        
+        const response = { success: true, message: "Post retrieved successfully", post };
+        
+        // Cache the result
+        if (req.redisClient) {
+            try {
+                await req.redisClient.setex(cacheKey, 600, JSON.stringify(response)); // 10 minutes
+            } catch (cacheError) {
+                logger.error(`Cache write error: ${cacheError.message}`);
+            }
+        }
+        
+        logger.info(`Post retrieved from DB: ${id}`);
+        res.status(200).json(response);
         
     } catch (error) {
         logger.error(`get post error: ${error.message}`);
@@ -85,6 +157,7 @@ const deletePost=async (req,res)=>{
             logger.warn(`Post not found: ${id}`);
             return res.status(404).json({ success: false, message: "Post not found" });
         }
+        await invalidatePostCache(req, id);
         logger.info(`Post deleted successfully: ${id}`);
         res.status(200).json({ success: true, message: "Post deleted successfully" });
         
@@ -104,13 +177,14 @@ const updatePost=async (req,res)=>{
             {_id: id, user: req.user._id},
             {content, updatedAt: new Date()},
             {new: true}
-        ).populate('user', 'username profilePicture');
+        );
         
         if(!post){
             logger.warn(`Post not found or unauthorized: ${id}`);
             return res.status(404).json({ success: false, message: "Post not found or unauthorized" });
         }
         
+        await invalidatePostCache(req, id);
         logger.info(`Post updated successfully: ${id}`);
         res.status(200).json({ success: true, message: "Post updated successfully", post });
         
@@ -136,9 +210,9 @@ const likePost=async (req,res)=>{
             ? { $pull: { likes: userId } }
             : { $addToSet: { likes: userId } };
             
-        const updatedPost = await Post.findByIdAndUpdate(id, update, {new: true})
-            .populate('user', 'username profilePicture');
+        const updatedPost = await Post.findByIdAndUpdate(id, update, {new: true});
             
+        await invalidatePostCache(req, id);
         logger.info(`Post ${isLiked ? 'unliked' : 'liked'}: ${id}`);
         res.status(200).json({ 
             success: true, 

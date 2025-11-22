@@ -5,7 +5,7 @@ const authenticateRequest=(req,res,next)=>{
     if(!userid){
         return res.status(401).json({success:false, message:'Unauthorized'});
     }
-    req.user = { _id: userid };
+    req.userId = userid;
     next();
 
 }

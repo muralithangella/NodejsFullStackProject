@@ -10,7 +10,7 @@ const router = express.Router();
 // Route-specific rate limiting
 const createPostLimiter = rateLimit({
     windowMs: 15 * 60 * 1000,
-    max: 10,
+    max: 50,
     message: { success: false, message: 'Too many posts created, try again later.' }
 });
 
@@ -24,9 +24,9 @@ const likeLimiter = rateLimit({
 router.use(authMiddleware);
 
 // Post routes with validation and rate limiting
-router.post('/', createPostLimiter, sanitizeInput, validatePost, createPost);
+router.post('/createPost', createPostLimiter, sanitizeInput, validatePost, createPost);
+router.get('/getAllPosts', getAllPosts);
 router.get('/:id', getPost);
-router.get('/', getAllPosts);
 router.put('/:id', sanitizeInput, validatePost, updatePost);
 router.delete('/:id', deletePost);
 router.post('/:id/like', likeLimiter, likePost);
