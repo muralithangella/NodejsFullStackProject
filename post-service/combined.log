@@ -10,3 +10,367 @@
 {"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
 {"level":"info","message":"Connected to MongoDB","service":"Post-service"}
 {"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10776","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 3896","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6300","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6020","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 12092","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 2908","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8640","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6620","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 12028","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10636","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 1928","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10856","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6900","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6356","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11684","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 9356","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 2116","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10536","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10136","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 12092","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6680","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8216","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 500","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8812","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11208","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8708","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 4784","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Validation error: \"title\" is required","service":"Post-service"}
+{"level":"error","message":"Create post error: Post validation failed: title: Title is required","service":"Post-service"}
+{"level":"error","message":"Create post error: Post validation failed: title: Title is required","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11568","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 69212c392242b850e59c3032","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Validation error: \"content\" length must be at least 10 characters long","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 836","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8100","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 4356","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 3120","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10392","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 964","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8464","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 692145bcc3f884c2cc3414f3","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 692145cfc3f884c2cc3414f5","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 692145dec3f884c2cc3414f7","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 692145eac3f884c2cc3414f9","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 692145f9c3f884c2cc3414fb","service":"Post-service"}
+{"level":"info","message":"Post created successfully: 69214609c3f884c2cc3414fd","service":"Post-service"}
+{"level":"error","message":"get post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5328","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 1916","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"getAll posts error: Schema hasn't been registered for model \"User\".\nUse mongoose.model(name, schema)","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 1624","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11700","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6624","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Posts retrieved from DB: page 1, limit 10","service":"Post-service"}
+{"level":"info","message":"Post retrieved from DB: 69212c392242b850e59c3032","service":"Post-service"}
+{"level":"info","message":"Post deleted successfully: 69212c392242b850e59c3032","service":"Post-service"}
+{"level":"info","message":"Post updated successfully: 69214609c3f884c2cc3414fd","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11696","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6908","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 7456","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8340","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 9512","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 3244","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 1456","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"Error connecting to RabbitMQ: getaddrinfo ENOTFOUND loclhost","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11948","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 7556","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 3016","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connection skipped for now","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5820","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 7456","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 13652","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connection skipped - service not required for basic functionality","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5032","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 13092","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10436","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5560","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5464","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5620","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 5212","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 12376","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"warn","message":"Post not found: 6921e2edf6b53fb353d8a7d3","service":"Post-service"}
+{"level":"warn","message":"Post not found: 6921e2edf6b53fb353d8a7d3","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 9304","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"SIGINT signal received. Starting graceful shutdown...","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 6292","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"warn","message":"Post not found: 6921e2edf6b53fb353d8a7d3","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 1532","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 8908","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"warn","message":"Post not found: 6921e2edf6b53fb353d8a7d3","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 11884","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"warn","message":"Post not found: 6921e2edf6b53fb353d8a7d3","service":"Post-service"}
+{"level":"info","message":"Connected to RabbitMQ at amqp://localhost:5672","service":"Post-service"}
+{"level":"info","message":"RabbitMQ connected successfully","service":"Post-service"}
+{"level":"info","message":"Post-service is running on port 3002","service":"Post-service"}
+{"level":"info","message":"Process ID: 10216","service":"Post-service"}
+{"level":"info","message":"Environment: development","service":"Post-service"}
+{"level":"info","message":"Connected to MongoDB","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"info","message":"Posts retrieved from DB: page 1, limit 10","service":"Post-service"}
+{"level":"info","message":"Posts retrieved from DB: page 1, limit 10","service":"Post-service"}
+{"level":"info","message":"Posts retrieved from DB: page 1, limit 10","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"info","message":"Posts retrieved from DB: page 1, limit 10","service":"Post-service"}

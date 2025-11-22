@@ -1,5 +1,6 @@
 const logger=require('../utils/logger');
 const {Post}=require('../models/post');
+const { publishEvent } = require('../utils/rabbitmq');
 
 
 const invalidatePostCache = async (req, postId) => {
@@ -154,9 +155,16 @@ const deletePost=async (req,res)=>{
         const {id}=req.params;
         const post=await Post.findByIdAndDelete(id);
         if(!post){
-            logger.warn(`Post not found: ${id}`);
+            const allPosts = await Post.find({}, '_id').lean();
+            logger.warn(`Post not found: ${id}. Available posts: ${allPosts.map(p => p._id).join(', ')}`);
             return res.status(404).json({ success: false, message: "Post not found" });
         }
+
+        await publishEvent('post.Deleted', {
+            postId: post._id.toString(),
+            userId: req.user._id,
+            mediaIds: post.mediaIds
+        })
         await invalidatePostCache(req, id);
         logger.info(`Post deleted successfully: ${id}`);
         res.status(200).json({ success: true, message: "Post deleted successfully" });

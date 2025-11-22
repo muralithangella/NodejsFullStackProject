@@ -1,0 +1,746 @@
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Server is running on port 3000","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"POST /register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"error","message":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","service":"api-gateway"}
+{"level":"info","message":"POST /api/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"error","message":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1134:18)\n    at afterConnectMultiple (node:net:1715:7)","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"error","message":"Proxy error: ","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/register","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/logout","service":"api-gateway"}
+{"level":"info","message":"Request Body: {\"username\":\"babluthangella\",\"email\":\"bablu.thangella@gmail.com\",\"password\":\"Babhu12@tcs\"}","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"warn","message":"IDENTITY_SERVICE_URL not set, using default: http://localhost:3001","service":"api-gateway"}
+{"level":"warn","message":"POST_SERVICE_URL not set, using default: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTAzMywianRpIjoiNThjODFhNTMtM2M0NC00MzgxLTkwN2ItZDAyMTdiMWJjZmJlIiwiZXhwIjoxNzYzNzgxOTMzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.92it-i7ZDLwR8wJVJAtd-dp3d2VaVWdfh_meIw37uDk","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTAzMywianRpIjoiNThjODFhNTMtM2M0NC00MzgxLTkwN2ItZDAyMTdiMWJjZmJlIiwiZXhwIjoxNzYzNzgxOTMzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.92it-i7ZDLwR8wJVJAtd-dp3d2VaVWdfh_meIw37uDk","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781033,\"jti\":\"58c81a53-3c44-4381-907b-d0217b1bcfbe\",\"exp\":1763781933,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTAzMywianRpIjoiNThjODFhNTMtM2M0NC00MzgxLTkwN2ItZDAyMTdiMWJjZmJlIiwiZXhwIjoxNzYzNzgxOTMzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.92it-i7ZDLwR8wJVJAtd-dp3d2VaVWdfh_meIw37uDk","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTAzMywianRpIjoiNThjODFhNTMtM2M0NC00MzgxLTkwN2ItZDAyMTdiMWJjZmJlIiwiZXhwIjoxNzYzNzgxOTMzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.92it-i7ZDLwR8wJVJAtd-dp3d2VaVWdfh_meIw37uDk","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781033,\"jti\":\"58c81a53-3c44-4381-907b-d0217b1bcfbe\",\"exp\":1763781933,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTEwMSwianRpIjoiMzM4N2MxYWQtMDljMy00ZTM4LTgxMjMtY2E4YWZlNmI0Y2Q1IiwiZXhwIjoxNzYzNzgyMDAxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.1b5OOR_6FgZidXtfjrN8jZVYmyel3MbTs7KBdf5rIpw","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781101,\"jti\":\"3387c1ad-09c3-4e38-8123-ca8afe6b4cd5\",\"exp\":1763782001,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTc1NiwianRpIjoiZjRmMWU2ZGItNmY2ZS00OWI3LWE1YWUtNDQ3NjI2ZjUwNTQxIiwiZXhwIjoxNzYzNzgyNjU2LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.0yOhtAOwcJg6ZENAB3_L7NTfVeqWqCQ1nnueExoi1k4","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTc1NiwianRpIjoiZjRmMWU2ZGItNmY2ZS00OWI3LWE1YWUtNDQ3NjI2ZjUwNTQxIiwiZXhwIjoxNzYzNzgyNjU2LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.0yOhtAOwcJg6ZENAB3_L7NTfVeqWqCQ1nnueExoi1k4","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781756,\"jti\":\"f4f1e6db-6f6e-49b7-a5ae-447626f50541\",\"exp\":1763782656,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTc1NiwianRpIjoiZjRmMWU2ZGItNmY2ZS00OWI3LWE1YWUtNDQ3NjI2ZjUwNTQxIiwiZXhwIjoxNzYzNzgyNjU2LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.0yOhtAOwcJg6ZENAB3_L7NTfVeqWqCQ1nnueExoi1k4","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTc1NiwianRpIjoiZjRmMWU2ZGItNmY2ZS00OWI3LWE1YWUtNDQ3NjI2ZjUwNTQxIiwiZXhwIjoxNzYzNzgyNjU2LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.0yOhtAOwcJg6ZENAB3_L7NTfVeqWqCQ1nnueExoi1k4","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781756,\"jti\":\"f4f1e6db-6f6e-49b7-a5ae-447626f50541\",\"exp\":1763782656,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781830,\"jti\":\"db6e286f-8df6-481f-babd-288eb7a1a701\",\"exp\":1763782730,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781830,\"jti\":\"db6e286f-8df6-481f-babd-288eb7a1a701\",\"exp\":1763782730,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763781830,\"jti\":\"db6e286f-8df6-481f-babd-288eb7a1a701\",\"exp\":1763782730,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4MTgzMCwianRpIjoiZGI2ZTI4NmYtOGRmNi00ODFmLWJhYmQtMjg4ZWI3YTFhNzAxIiwiZXhwIjoxNzYzNzgyNzMwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.eqJ0UYZImdBnm8H4CZh0cekA_MksOJJltXbqbGU2ITQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/createPost","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/getPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763788095,\"jti\":\"e55a3f91-dabc-4768-8ad6-bcade0d53bd5\",\"exp\":1763788995,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/69212c392242b850e59c3032","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4ODA5NSwianRpIjoiZTU1YTNmOTEtZGFiYy00NzY4LThhZDYtYmNhZGUwZDUzYmQ1IiwiZXhwIjoxNzYzNzg4OTk1LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.i3TidOrTuQ4q4rXDx6DcFCRONuEOtrsUZJ4nFaRqsR0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/logout","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/69212c392242b850e59c3032","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4OTM0MywianRpIjoiNDA3ZTI2OTAtZTM1Mi00NWIyLWFmZWYtMTc3YjZkNWJmYTI3IiwiZXhwIjoxNzYzNzkwMjQzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.sJEaY76AH0tESXhJssl9MGuocYYlGdzoIN5Keii7Uqs","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4OTM0MywianRpIjoiNDA3ZTI2OTAtZTM1Mi00NWIyLWFmZWYtMTc3YjZkNWJmYTI3IiwiZXhwIjoxNzYzNzkwMjQzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.sJEaY76AH0tESXhJssl9MGuocYYlGdzoIN5Keii7Uqs","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763789343,\"jti\":\"407e2690-e352-45b2-afef-177b6d5bfa27\",\"exp\":1763790243,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/69212c392242b850e59c3032","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4OTM0MywianRpIjoiNDA3ZTI2OTAtZTM1Mi00NWIyLWFmZWYtMTc3YjZkNWJmYTI3IiwiZXhwIjoxNzYzNzkwMjQzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.sJEaY76AH0tESXhJssl9MGuocYYlGdzoIN5Keii7Uqs","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc4OTM0MywianRpIjoiNDA3ZTI2OTAtZTM1Mi00NWIyLWFmZWYtMTc3YjZkNWJmYTI3IiwiZXhwIjoxNzYzNzkwMjQzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.sJEaY76AH0tESXhJssl9MGuocYYlGdzoIN5Keii7Uqs","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763789343,\"jti\":\"407e2690-e352-45b2-afef-177b6d5bfa27\",\"exp\":1763790243,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"PUT /api/v1/posts/69214609c3f884c2cc3414fd","service":"api-gateway"}
+{"level":"info","message":"Auth header: undefined","service":"api-gateway"}
+{"level":"info","message":"Token: undefined","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"PUT /api/v1/posts/69214609c3f884c2cc3414fd","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc5MDMyMywianRpIjoiMWM1ODM4N2EtMjY4OC00MDI2LWE5MmYtM2IwMzFjZThjMjVlIiwiZXhwIjoxNzYzNzkxMjIzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JR5BwjIeI61ye2SMj63DjAZNS0e7DUylQOMcmp_UGgY","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2Mzc5MDMyMywianRpIjoiMWM1ODM4N2EtMjY4OC00MDI2LWE5MmYtM2IwMzFjZThjMjVlIiwiZXhwIjoxNzYzNzkxMjIzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JR5BwjIeI61ye2SMj63DjAZNS0e7DUylQOMcmp_UGgY","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763790323,\"jti\":\"1c58387a-2688-4026-a92f-3b031ce8c25e\",\"exp\":1763791223,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763801878,\"jti\":\"5d0d0905-de8c-4a46-bef3-492e3acca00d\",\"exp\":1763802778,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/upload","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763801878,\"jti\":\"5d0d0905-de8c-4a46-bef3-492e3acca00d\",\"exp\":1763802778,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763801878,\"jti\":\"5d0d0905-de8c-4a46-bef3-492e3acca00d\",\"exp\":1763802778,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763801878,\"jti\":\"5d0d0905-de8c-4a46-bef3-492e3acca00d\",\"exp\":1763802778,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763803461,\"jti\":\"8a7ce4de-ff0e-491d-ae04-dd5f8ea2b01a\",\"exp\":1763804361,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763803461,\"jti\":\"8a7ce4de-ff0e-491d-ae04-dd5f8ea2b01a\",\"exp\":1763804361,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763803461,\"jti\":\"8a7ce4de-ff0e-491d-ae04-dd5f8ea2b01a\",\"exp\":1763804361,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"error","message":"Media service proxy error: read ECONNRESET","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763803461,\"jti\":\"8a7ce4de-ff0e-491d-ae04-dd5f8ea2b01a\",\"exp\":1763804361,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763803461,\"jti\":\"8a7ce4de-ff0e-491d-ae04-dd5f8ea2b01a\",\"exp\":1763804361,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMzQ2MSwianRpIjoiOGE3Y2U0ZGUtZmYwZS00OTFkLWFlMDQtZGQ1ZjhlYTJiMDFhIiwiZXhwIjoxNzYzODA0MzYxLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.2mgzLIGkjeSK21ZGGOLTcR3o5fxfEKQFYdY560p2BdA","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"error","message":"Media service proxy error: ","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763805067,\"jti\":\"3f867e9b-33ee-40f3-a51b-dffe8ac55445\",\"exp\":1763805967,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"API Gateway is running on port 3000","service":"api-gateway"}
+{"level":"info","message":"Identity Service URL: http://localhost:3001","service":"api-gateway"}
+{"level":"info","message":"Post Service URL: http://localhost:3002","service":"api-gateway"}
+{"level":"info","message":"Media Service URL: http://localhost:3003","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwMTg3OCwianRpIjoiNWQwZDA5MDUtZGU4Yy00YTQ2LWJlZjMtNDkyZTNhY2NhMDBkIiwiZXhwIjoxNzYzODAyNzc4LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.BmoIrsUGvXL5H1SeaI1lF4KzwBqOasJP3vGz3cLoVv8","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763826283,\"jti\":\"a674c727-5495-4e8c-bc4b-8d4672671afd\",\"exp\":1763827183,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: undefined","service":"api-gateway"}
+{"level":"info","message":"Token: undefined","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763826283,\"jti\":\"a674c727-5495-4e8c-bc4b-8d4672671afd\",\"exp\":1763827183,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgwNTA2NywianRpIjoiM2Y4NjdlOWItMzNlZS00MGYzLWE1MWItZGZmZThhYzU1NDQ1IiwiZXhwIjoxNzYzODA1OTY3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.xfM4giS9fA1esJkVb_cHZPeq0RT_CE5X_xHK1dJRKh0","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/media/upload","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyNjI4MywianRpIjoiYTY3NGM3MjctNTQ5NS00ZThjLWJjNGItOGQ0NjcyNjcxYWZkIiwiZXhwIjoxNzYzODI3MTgzLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.N4CaeqaP33JizsUW075psjpuy3JtkfD1ep7PCltO5rg","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/post/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: undefined","service":"api-gateway"}
+{"level":"info","message":"Token: undefined","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/6921e2edf6b53fb353d8a7d3","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763828439,\"jti\":\"607272cf-0b2a-4c2c-9cbf-51e88ae72612\",\"exp\":1763829339,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829450,\"jti\":\"6c63707e-5b59-4547-bb94-c48ef31ad634\",\"exp\":1763830350,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829450,\"jti\":\"6c63707e-5b59-4547-bb94-c48ef31ad634\",\"exp\":1763830350,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829450,\"jti\":\"6c63707e-5b59-4547-bb94-c48ef31ad634\",\"exp\":1763830350,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTY1NywianRpIjoiZDQ0YzdiNjMtMTI4MC00ZGFlLTliMDQtYWU3Y2U0ODhiNDAwIiwiZXhwIjoxNzYzODMwNTU3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.9MstEFCigVUli6aG9oMLh0LPIdn5PiL-KIPtOdvhRaQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTY1NywianRpIjoiZDQ0YzdiNjMtMTI4MC00ZGFlLTliMDQtYWU3Y2U0ODhiNDAwIiwiZXhwIjoxNzYzODMwNTU3LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.9MstEFCigVUli6aG9oMLh0LPIdn5PiL-KIPtOdvhRaQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829657,\"jti\":\"d44c7b63-1280-4dae-9b04-ae7ce488b400\",\"exp\":1763830557,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/media/getAllMedia","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTQ1MCwianRpIjoiNmM2MzcwN2UtNWI1OS00NTQ3LWJiOTQtYzQ4ZWYzMWFkNjM0IiwiZXhwIjoxNzYzODMwMzUwLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.7_L5wyihgAdpDdX0B2VH51-UN92lVLAJQUKlNG_REaU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829450,\"jti\":\"6c63707e-5b59-4547-bb94-c48ef31ad634\",\"exp\":1763830350,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyODQzOSwianRpIjoiNjA3MjcyY2YtMGIyYS00YzJjLTljYmYtNTFlODhhZTcyNjEyIiwiZXhwIjoxNzYzODI5MzM5LCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.JlAKqvausgSmqjIIy95VCzcpGLjk8osGeAEiV9zuSRU","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"error","message":"JWT verification error: jwt expired","service":"api-gateway"}
+{"level":"info","message":"POST /api/v1/login","service":"api-gateway"}
+{"level":"info","message":"DELETE /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTc0MiwianRpIjoiZjIxNDQ3MTEtNTgwZi00ODk2LTk3OTAtYzZmNzcyM2ViY2YzIiwiZXhwIjoxNzYzODMwNjQyLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.fz54cRChJP49u1hB8cLZRZA9n6SZ3KL5YztnclZySdQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTc0MiwianRpIjoiZjIxNDQ3MTEtNTgwZi00ODk2LTk3OTAtYzZmNzcyM2ViY2YzIiwiZXhwIjoxNzYzODMwNjQyLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.fz54cRChJP49u1hB8cLZRZA9n6SZ3KL5YztnclZySdQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829742,\"jti\":\"f2144711-580f-4896-9790-c6f7723ebcf3\",\"exp\":1763830642,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}
+{"level":"info","message":"GET /api/v1/posts/getAllPosts","service":"api-gateway"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTc0MiwianRpIjoiZjIxNDQ3MTEtNTgwZi00ODk2LTk3OTAtYzZmNzcyM2ViY2YzIiwiZXhwIjoxNzYzODMwNjQyLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.fz54cRChJP49u1hB8cLZRZA9n6SZ3KL5YztnclZySdQ","service":"api-gateway"}
+{"level":"info","message":"Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjExYTMzMGZlYjU2NjIyYTcxN2JmOCIsImVtYWlsIjoiYmFibHUudGhhbmdlbGxhQGdtYWlsLmNvbSIsImlhdCI6MTc2MzgyOTc0MiwianRpIjoiZjIxNDQ3MTEtNTgwZi00ODk2LTk3OTAtYzZmNzcyM2ViY2YzIiwiZXhwIjoxNzYzODMwNjQyLCJhdWQiOiJzb2NpYWwtbWVkaWEtYXBwIiwiaXNzIjoiaWRlbnRpdHktc2VydmljZSJ9.fz54cRChJP49u1hB8cLZRZA9n6SZ3KL5YztnclZySdQ","service":"api-gateway"}
+{"level":"info","message":"JWT_ACCESS_SECRET: SECRET_KEY","service":"api-gateway"}
+{"level":"info","message":"Decoded user: {\"id\":\"69211a330feb56622a717bf8\",\"email\":\"bablu.thangella@gmail.com\",\"iat\":1763829742,\"jti\":\"f2144711-580f-4896-9790-c6f7723ebcf3\",\"exp\":1763830642,\"aud\":\"social-media-app\",\"iss\":\"identity-service\"}","service":"api-gateway"}
+{"level":"info","message":"Authenticated user: 69211a330feb56622a717bf8","service":"api-gateway"}

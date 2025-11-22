@@ -2,6 +2,7 @@ const logger = require('../utils/logger');
 const { uploadImageToCloudinary } = require('../utils/cloudinary');
 const { Media } = require('../models/media');
 
+
 const uploadMedia = async (req, res) => {
     try {
         if (!req.file) {
@@ -42,4 +43,21 @@ const uploadMedia = async (req, res) => {
     }
 };
 
-module.exports = { uploadMedia };
+const getAllMedia = async (req, res) => {
+    try {
+    
+        const media = await Media.find({});
+
+        if (!media) {
+            return res.status(404).json({ success: false, message: 'Media not found' });
+        }
+
+        res.status(200).json({ success: true, media });
+    } catch (error) {
+        logger.error(`Error fetching media: ${error.message}`);
+        res.status(500).json({ success: false, message: 'Error fetching media', error: error.message });
+    }
+};
+
+
+module.exports = { uploadMedia,getAllMedia };

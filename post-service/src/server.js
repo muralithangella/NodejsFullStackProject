@@ -9,6 +9,7 @@ const errorHandler = require('./middleware/errorHandler');
 const dotenv=require('dotenv');
 dotenv.config();
 const mongoose = require('mongoose');
+const { connectToRabbitMQ } = require('./utils/rabbitmq');
 
 const app = express();
 
@@ -33,14 +34,14 @@ app.use(cors({
 }));
 
 // Rate limiting - disabled for testing
-// const limiter = rateLimit({
-//     windowMs: 15 * 60 * 1000, // 15 minutes
-//     max: 100, // limit each IP to 100 requests per windowMs
-//     message: { success: false, message: 'Too many requests, please try again later.' },
-//     standardHeaders: true,
-//     legacyHeaders: false,
-// });
-// app.use('/api/', limiter);
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 100, // limit each IP to 100 requests per windowMs
+    message: { success: false, message: 'Too many requests, please try again later.' },
+     standardHeaders: true,
+     legacyHeaders: false,
+});
+app.use('/api/', limiter);
 
 // Compression middleware
 app.use(compression());
@@ -160,18 +161,39 @@ process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 process.on('SIGTERM', () => gracefulShutdown('SIGTERM'));
 process.on('SIGHUP', () => gracefulShutdown('SIGHUP'));
 
-// Start server
-server = app.listen(PORT, () => {
-    logger.info(`Post-service is running on port ${PORT}`);
-    logger.info(`Process ID: ${process.pid}`);
-    logger.info(`Environment: ${process.env.NODE_ENV || 'development'}`);
-});
-
-// Handle server errors
-server.on('error', (err) => {
-    logger.error('Server error:', err);
-    if (err.code === 'EADDRINUSE') {
-        logger.error(`Port ${PORT} is already in use`);
-        process.exit(1);
+// RabbitMQ connection
+const connectRabbitMQ = async () => {
+    try {
+        await connectToRabbitMQ();
+        logger.info('RabbitMQ connected successfully');
+    } catch (error) {
+        logger.error('RabbitMQ connection failed:', error.message);
+        logger.warn('Continuing without RabbitMQ - some features may be limited');
     }
+};
+
+// Initialize services
+const initializeServices = async () => {
+    await connectRabbitMQ();
+    
+    // Start server
+    server = app.listen(PORT, () => {
+        logger.info(`Post-service is running on port ${PORT}`);
+        logger.info(`Process ID: ${process.pid}`);
+        logger.info(`Environment: ${process.env.NODE_ENV || 'development'}`);
+    });
+
+    // Handle server errors
+    server.on('error', (err) => {
+        logger.error('Server error:', err);
+        if (err.code === 'EADDRINUSE') {
+            logger.error(`Port ${PORT} is already in use`);
+            process.exit(1);
+        }
+    });
+};
+
+initializeServices().catch(err => {
+    logger.error('Failed to initialize services:', err);
+    process.exit(1);
 });

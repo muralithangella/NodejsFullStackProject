@@ -8,6 +8,8 @@ const rateLimit = require('express-rate-limit');
 const logger = require('./utils/logger');
 const errorHandler = require('./middleware/errorHandler');
 const mediaRouter = require('./router/media-router');
+const { consumeEvent } = require('./utils/rabbitmq');
+const { handlePostDeleted } = require('./eventHandler.js/eventHandlers');
 dotenv.config();
 
 const app = express();
@@ -70,9 +72,9 @@ dbConnect();
 app.get('/health', (req, res) => {
     const dbStatus = mongoose.connection.readyState === 1 ? 'connected' : 'disconnected';
     const isHealthy = mongoose.connection.readyState === 1;
-    
-    res.status(isHealthy ? 200 : 503).json({ 
-        success: isHealthy, 
+
+    res.status(isHealthy ? 200 : 503).json({
+        success: isHealthy,
         message: isHealthy ? 'Media service is healthy' : 'Media service is unhealthy',
         timestamp: new Date().toISOString(),
         database: dbStatus
@@ -99,10 +101,10 @@ const gracefulShutdown = async (signal) => {
         logger.warn('Shutdown already in progress, forcing exit...');
         process.exit(1);
     }
-    
+
     isShuttingDown = true;
     logger.info(`${signal} signal received. Starting graceful shutdown...`);
-    
+
     if (server) {
         server.close(async (err) => {
             if (err) {
@@ -110,13 +112,13 @@ const gracefulShutdown = async (signal) => {
             } else {
                 logger.info('HTTP server closed');
             }
-            
+
             try {
                 if (mongoose.connection.readyState === 1) {
                     await mongoose.connection.close();
                     logger.info('MongoDB connection closed');
                 }
-                
+
                 logger.info('Graceful shutdown completed');
                 process.exit(0);
             } catch (error) {
@@ -124,7 +126,7 @@ const gracefulShutdown = async (signal) => {
                 process.exit(1);
             }
         });
-        
+
         setTimeout(() => {
             logger.error('Graceful shutdown timeout, forcing exit');
             process.exit(1);
@@ -158,6 +160,10 @@ process.on('unhandledRejection', (reason, promise) => {
 process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 process.on('SIGTERM', () => gracefulShutdown('SIGTERM'));
 process.on('SIGHUP', () => gracefulShutdown('SIGHUP'));
+
+//delete media event handler
+
+consumeEvent('post.Deleted',handlePostDeleted);
 
 // Start server
 server = app.listen(PORT, () => {

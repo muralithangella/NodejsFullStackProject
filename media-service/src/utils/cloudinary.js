@@ -1,13 +1,6 @@
 const cloudinary=require('cloudinary').v2;
-const fs=require('fs');
 const logger = require('../utils/logger');
 require('dotenv').config();
-
-console.log('Cloudinary config:', {
-    cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
-    api_key: process.env.CLOUDINARY_API_KEY ? 'SET' : 'NOT SET',
-    api_secret: process.env.CLOUDINARY_API_SECRET ? 'SET' : 'NOT SET'
-});
 
 cloudinary.config({
     cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
@@ -46,4 +39,15 @@ const uploadImageToCloudinary = async (file) => {
     }
 };
 
-module.exports = { uploadImageToCloudinary };
+const deleteImageFromCloudinary = async (publicId) => {
+    try {
+        const result = await cloudinary.uploader.destroy(publicId);
+        logger.info(`Cloudinary delete result: ${JSON.stringify(result)}`);
+        return result;
+    } catch (error) {
+        logger.error(`Cloudinary delete error: ${error.message}`);
+        throw error;
+    }
+};
+
+module.exports = { uploadImageToCloudinary ,deleteImageFromCloudinary};

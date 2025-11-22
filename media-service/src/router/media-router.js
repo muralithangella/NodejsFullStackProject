@@ -1,6 +1,6 @@
 const express = require('express');
 const multer = require('multer');
-const { uploadMedia } = require('../controller/media-controller');
+const { uploadMedia, getMedia, getAllMedia } = require('../controller/media-controller');
 const authMiddleware = require('../middleware/authMiddleware');
 const logger = require('../utils/logger');
 
@@ -14,11 +14,8 @@ const upload = multer({
     }
 });
 
-// Test route without multer
-router.post('/test', (req, res) => {
-    res.json({ success: true, headers: req.headers, contentType: req.get('content-type') });
-});
-
-router.post('/upload', upload.single('media'), uploadMedia);
+//router.post('/upload', upload.single('media'), uploadMedia);
+router.post('/upload', authMiddleware, upload.single('media'), uploadMedia);
+router.get('/getAllMedia',authMiddleware,getAllMedia);
 
 module.exports = router;

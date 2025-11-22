@@ -1,0 +1,22 @@
+{"level":"error","message":"Validation error: \"title\" is required","service":"Post-service"}
+{"level":"error","message":"Create post error: Post validation failed: title: Title is required","service":"Post-service"}
+{"level":"error","message":"Create post error: Post validation failed: title: Title is required","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Validation error: \"content\" length must be at least 10 characters long","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"Create post error: E11000 duplicate key error collection: test.posts index: title_1 dup key: { title: null }","service":"Post-service"}
+{"level":"error","message":"get post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"error","message":"getAll posts error: Schema hasn't been registered for model \"User\".\nUse mongoose.model(name, schema)","service":"Post-service"}
+{"level":"error","message":"Error connecting to RabbitMQ: getaddrinfo ENOTFOUND loclhost","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"error","message":"RabbitMQ connection failed:","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
+{"level":"error","message":"delete post error: Cast to ObjectId failed for value \"getAllPosts\" (type string) at path \"_id\" for model \"Post\"","service":"Post-service"}
